@@ -1,4 +1,4 @@
-# Hi, I'm Sehun 👋
+# Hi, I'm Sehun (or Daniel) 👋
 
 Computer Science @ Yonsei University  
 Software Engineer interested in **AI Agents, Backend Systems, and Systems Engineering**.
